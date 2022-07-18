@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '9704'
     url: http://www.gutenberg.org/2009/agents/9704
     wikipedia: https://en.wikipedia.org/wiki/William_Rainey
+covers:
+- cover_type: archival
+  image_path: 68480-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Stables, Gordon
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4164
     wikipedia: https://en.wikipedia.org/wiki/William_Gordon_Stables
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68480#The-naval-cadet-A-story-of-adventures-on-land-and-sea
 gutenberg_issued: '2022-07-09'
 identifiers:
   gutenberg: '68480'
